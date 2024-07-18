@@ -1,5 +1,5 @@
 # Flow Launcher (Application Launcher)
-Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [PowerToys](https://scoop.sh/#/apps?q=flow+launcher).
+Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [Flow Launcher](https://scoop.sh/#/apps?q=flow+launcher).
 
 ## Install Flow Launcher
 ```sh
