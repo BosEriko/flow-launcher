@@ -25,5 +25,6 @@ After setting up the hotkey make sure to also enable the following on initial st
 - Theme: Midnight
 - Query Box Font: JetBrainsMono
 - Result Item Font: JetBrainsMono
+- Clock: off
 - Animation: Off
 - Sound Effect: Off
