@@ -26,3 +26,8 @@ After setting up the hotkey make sure to also enable the following on initial st
 - Query Box Font: JetBrainsMono
 - Result Item Font: JetBrainsMono
 - Animation: Off
+- Sound Effect: Off
+
+## Plugins
+- ChatGPT
+- Wallpaper Searcher
